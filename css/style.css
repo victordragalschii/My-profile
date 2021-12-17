@@ -1,14 +1,16 @@
 .body{
     display: block;
     text-align: -webkit-center;
+    background:  burlywood;
 }
 h1{
     text-align: center;
 }
 .content{
     text-align: left;
+    background:rgb(219, 201, 178);
     width: 450px;
-    border: solid 1px;
+
 }
 
 .image{
