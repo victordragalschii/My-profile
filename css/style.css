@@ -22,6 +22,7 @@ h1{
     text-align: left;
     background:rgb(219, 201, 178);
     width: 450px;
+    padding-bottom: 20px;
 }
 
 .image{
@@ -37,4 +38,5 @@ h1{
 footer{
     width: 100%;
     height: 100px;
+    background:gray;
 }
