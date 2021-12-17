@@ -1,21 +1,14 @@
 .body{
     display: block;
-<<<<<<< HEAD
     text-align: -webkit-center;
     background:  burlywood;
-=======
-    margin-left: 50%;
->>>>>>> f05f4ab96d4fc4ba6b2174b74c092b9661a11832
 }
 h1{
     text-align: center;
 }
 .content{
-<<<<<<< HEAD
     text-align: left;
     background:rgb(219, 201, 178);
-=======
->>>>>>> f05f4ab96d4fc4ba6b2174b74c092b9661a11832
     width: 450px;
 
 }
