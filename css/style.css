@@ -5,6 +5,11 @@
     text-align: -webkit-center;
     background:  burlywood;
 }
+
+a{
+    color: rgb(12, 58, 58);
+    text-decoration: none;
+}
 h1{
     text-align: center;
 }
